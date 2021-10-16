@@ -3,7 +3,7 @@
    "title": "MultiversoT20",   
    "description": "Módulo para integrar Coração de Rubi, Tesouro em Alto-Mar e Uma Nova História",   
    "author": "Magoris",
-   "version": "0.0.1",
+   "version": "0.0.2",
    "minimumCoreVersion": "0.7.9",
    "compatibleCoreVersion":"0.8.8",
    "packs": [
@@ -13,7 +13,21 @@
       "path": "packs/deuses.db",
       "entity": "Item",
       "module": "T20-CDM"
-    }
+    },
+    {
+      "name": "origens",
+      "label": "Origens T20",
+      "path": "packs/origens.db",
+      "entity": "Item",
+      "module": "T20-CDM"
+    },
+  {
+    "name": "poderes-inventor",
+    "label": "Inventor T20",
+    "path": "packs/poderes-inventor.db",
+    "entity": "Item",
+    "module": "T20-CDM"
+  }
   ],
 "url": "https://github.com/magoris19/T20-CDM",
 "manifest": "https://raw.githubusercontent.com/magoris19/T20-CDM/main/module.json",
