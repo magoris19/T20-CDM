@@ -27,6 +27,13 @@
     "path": "packs/poderes-inventor.db",
     "entity": "Item",
     "module": "T20-CDM"
+  },
+  {
+    "name": "racas-t20",
+    "label": "Raças T20",
+    "path": "packs/racas-t20.db",
+    "entity": "Item",
+    "module": "T20-CDM"
   }
   ],
 "url": "https://github.com/magoris19/T20-CDM",
