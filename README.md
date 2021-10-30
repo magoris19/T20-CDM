@@ -19,6 +19,6 @@ Poderes para cada origem, onde dentro deles existem as descrições e também os
 
 Atualmente 19 raças estão nesse módulo, incluindo Moreau e o Sátiro.
 
-**Império de Jade**
+**IMPÉRIO DE JADE**
 
 Atualmente conta com os poderes das classes Bushi, Kensei, Samurai e Ten no Kishi.
