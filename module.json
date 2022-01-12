@@ -3,7 +3,7 @@
    "title": "MultiversoT20",   
    "description": "Módulo para integrar Coração de Rubi, Tesouro em Alto-Mar e Uma Nova História",   
    "author": "Magoris",
-   "version": "0.0.4.1",
+   "version": "0.0.5",
    "minimumCoreVersion": "0.7.9",
    "compatibleCoreVersion":"0.9.0",
    "packs": [
