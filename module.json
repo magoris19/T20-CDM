@@ -3,7 +3,7 @@
    "title": "MultiversoT20",   
    "description": "Módulo para integrar Coração de Rubi, Tesouro em Alto-Mar e Uma Nova História",   
    "author": "Magoris",
-   "version": "0.1.1",
+   "version": "0.1.2",
    "minimumCoreVersion": "0.8.9",
    "compatibleCoreVersion":"9",
    "packs": [
@@ -21,41 +21,41 @@
       "entity": "Item",
       "module": "T20-CDM"
     },
-  {
-    "name": "poderes-inventor",
-    "label": "Inventor T20",
-    "path": "packs/poderes-inventor.db",
-    "entity": "Item",
-    "module": "T20-CDM"
-  },
-  {
-    "name": "racas-t20",
-    "label": "Raças T20",
-    "path": "packs/racas-t20.db",
-    "entity": "Item",
-    "module": "T20-CDM"
-  },
-  {
-    "name": "moreau-db172",
-    "label": "Moreau DB 172",
-    "path": "packs/moreau-db172.db",
-    "entity": "Item",
-    "module": "T20-CDM"
-  },
-  {
-    "name": "poderes-raciais-extra",
-    "label": "Poderes Raciais DB",
-    "path": "packs/poderes-raciais-extra.db",
-    "entity": "Item",
-    "module": "T20-CDM"
-  },
-  {
-    "name": "povo-trovao-db174",
-    "label": "Povo-Trovão DB 174",
-    "path": "packs/povo-trovao-db174.db",
-    "entity": "Item",
-    "module": "T20-CDM"
-  }
+    {
+      "name": "poderes-inventor",
+      "label": "Inventor T20",
+      "path": "packs/poderes-inventor.db",
+      "entity": "Item",
+      "module": "T20-CDM"
+    },
+    {
+      "name": "racas-t20",
+      "label": "Raças T20",
+      "path": "packs/racas-t20.db",
+      "entity": "Item",
+      "module": "T20-CDM"
+    },
+    {
+      "name": "moreau-db172",
+      "label": "Moreau DB 172",
+      "path": "packs/moreau-db172.db",
+      "entity": "Item",
+      "module": "T20-CDM"
+    },
+    {
+      "name": "poderes-raciais-extra",
+      "label": "Poderes Raciais DB",
+      "path": "packs/poderes-raciais-extra.db",
+      "entity": "Item",
+      "module": "T20-CDM"
+    },
+    {
+      "name": "povo-trovao-db174",
+      "label": "Povo-Trovão DB 174",
+      "path": "packs/povo-trovao-db174.db",
+      "entity": "Item",
+      "module": "T20-CDM"
+    }
   ],
 "url": "https://github.com/magoris19/T20-CDM",
 "manifest": "https://raw.githubusercontent.com/magoris19/T20-CDM/main/module.json",
