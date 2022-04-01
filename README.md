@@ -7,7 +7,7 @@ Este módulo tem como objetivo **integrar** os mundos em que jogamos, para facil
 ## Conteúdo
 **DEUSES**
 
-Descrição de cada um dos 20 Deuses maiores do Panteão, juntamente com suas mecânicas e poderes concedidos.
+Descrição de cada um dos 20 Deuses Maiores do Panteão, juntamente com suas mecânicas e poderes concedidos.
 
 
 **ORIGENS**
