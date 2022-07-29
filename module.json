@@ -3,7 +3,7 @@
    "title": "MultiversoT20",   
    "description": "Módulo para integrar Coração de Rubi, Tesouro em Alto-Mar e Uma Nova História",   
    "author": "Magoris",
-   "version": "0.1.3",
+   "version": "0.1.4",
    "minimumCoreVersion": "0.8.9",
    "compatibleCoreVersion":"9",
    "packs": [
@@ -36,9 +36,9 @@
       "module": "T20-CDM"
     },
     {
-      "name": "moreau-db172",
-      "label": "Moreau DB 172",
-      "path": "packs/moreau-db172.db",
+      "name": "racas-db",
+      "label": "Raças Extras DB",
+      "path": "packs/racas-db.db",
       "entity": "Item",
       "module": "T20-CDM"
     },
@@ -50,9 +50,9 @@
       "module": "T20-CDM"
     },
     {
-      "name": "povo-trovao-db174",
-      "label": "Povo-Trovão DB 174",
-      "path": "packs/povo-trovao-db174.db",
+      "name": "distincoes",
+      "label": "Distinções",
+      "path": "packs/distincoes.db",
       "entity": "Item",
       "module": "T20-CDM"
     }
