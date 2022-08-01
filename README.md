@@ -18,3 +18,7 @@ Poderes para cada origem, onde dentro deles existem as descrições e também os
 **RAÇAS**
 
 Atualmente 23 raças estão nesse módulo, incluindo Sátiro (DB 164), Moreau (DB 172) e o Povo-Trovão (DB 174), provenientes das Dragão Brasil.
+
+**DISTINÇÕES**
+
+As 4 distinções disponíveis na DB 181 estão inclusas no compendio, efeitos não configurados porém podem ser adicionados à ficha.
