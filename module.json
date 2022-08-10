@@ -1,11 +1,11 @@
 {   
    "name": "T20-CDM",   
-   "title": "MultiversoT20",   
-   "description": "Módulo para integrar Coração de Rubi, Tesouro em Alto-Mar e Uma Nova História",   
-   "author": "Magoris",
-   "version": "0.1.4",
+   "title": "T20-CDM",   
+   "description": "Módulo para unificar materiais vindo de Dragão Brasil, livro básico de Tormenta20 e Jornada Heróica - Coração de Rubi. Facilitando a utilização em nossos próprios mundos/universos, além de acelerar o processo de atualização, criação de efeitos e conserto de erros.",   
+   "author": "Magoris & CptSRedfield",
+   "version": "1.0.0",
    "minimumCoreVersion": "0.8.9",
-   "compatibleCoreVersion":"9",
+   "compatibleCoreVersion":"10",
    "packs": [
     {
       "name": "deuses",
@@ -54,6 +54,90 @@
       "label": "Distinções",
       "path": "packs/distincoes.db",
       "entity": "Item",
+      "module": "T20-CDM"
+    },
+    {
+      "name": "equipamentos-extra",
+      "label": "Equipamentos Extra",
+      "path": "packs/equipamentos-extra.db",
+      "entity": "Item",
+      "module": "T20-CDM"
+    },
+    {
+      "name": "poderes-extra",
+      "label": "Poderes Extra",
+      "path": "packs/poderes-extra.db",
+      "entity": "Item",
+      "module": "T20-CDM"
+    },
+    {
+      "name": "poderes-configurados",
+      "label": "Poderes Configurados",
+      "path": "packs/poderes-configurados.db",
+      "entity": "Item",
+      "module": "T20-CDM"
+    },
+    {
+      "name": "dragao-brasil",
+      "label": "Dragão Brasil",
+      "path": "packs/dragao-brasil.db",
+      "entity": "Actor",
+      "module": "T20-CDM"
+    },
+    {
+      "name": "guia-de-npcs",
+      "label": "Guia de NPCs",
+      "path": "packs/guia-de-npcs.db",
+      "entity": "Actor",
+      "module": "T20-CDM"
+    },
+    {
+      "name": "jheroica_cdrubi",
+      "label": "JH - Coração de Rubi",
+      "path": "packs/jheroica_cdrubi.db",
+      "entity": "Actor",
+      "module": "T20-CDM"
+    },
+    {
+      "name": "doencas",
+      "label": "Doenças",
+      "path": "packs/doencas.db",
+      "entity": "Actor",
+      "module": "T20-CDM"
+    },
+    {
+      "name": "venenos",
+      "label": "Venenos",
+      "path": "packs/venenos.db",
+      "entity": "Actor",
+      "module": "T20-CDM"
+    },
+    {
+      "name": "tabela-doencas",
+      "label": "Tabela Doenças",
+      "path": "packs/tabela-doencas.db",
+      "entity": "RollTable",
+      "module": "T20-CDM"
+    },
+    {
+      "name": "tabela-venenos",
+      "label": "Tabela Venenos",
+      "path": "packs/tabela-venenos.db",
+      "entity": "RollTable",
+      "module": "T20-CDM"
+    },
+    {
+      "name": "tabela-equipamentos",
+      "label": "Tabela Equipamentos",
+      "path": "packs/tabela-equipamentos.db",
+      "entity": "RollTable",
+      "module": "T20-CDM"
+    },
+    {
+      "name": "comidas-exoticas",
+      "label": "Tabela Comidas Exóticas",
+      "path": "packs/comidas-exoticas.db",
+      "entity": "RollTable",
       "module": "T20-CDM"
     }
   ],
