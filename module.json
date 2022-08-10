@@ -3,7 +3,7 @@
    "title": "T20-CDM",   
    "description": "Módulo para unificar materiais vindo de Dragão Brasil, livro básico de Tormenta20 e Jornada Heróica - Coração de Rubi. Facilitando a utilização em nossos próprios mundos/universos, além de acelerar o processo de atualização, criação de efeitos e conserto de erros.",   
    "author": "Magoris & CptSRedfield",
-   "version": "1.0.0.1",
+   "version": "1.0.3",
    "minimumCoreVersion": "0.8.9",
    "compatibleCoreVersion":"9",
    "packs": [
@@ -98,7 +98,7 @@
       "entity": "Actor",
       "module": "T20-CDM"
     },
-/*    {
+    {
       "name": "doencas",
       "label": "Doenças",
       "path": "packs/doencas.db",
@@ -111,7 +111,7 @@
       "path": "packs/venenos.db",
       "entity": "Item",
       "module": "T20-CDM"
-    },*/
+    },
     {
       "name": "tabela-doencas",
       "label": "Tabela Doenças",
