@@ -8,7 +8,7 @@
    "url": "https://github.com/magoris19/T20-CDM",
    "manifest": "https://github.com/magoris19/T20-CDM/releases/download/teste/module.json",
    "download": "https://github.com/magoris19/T20-CDM/releases/download/teste/T20-CDM-main.zip",
-   "minimumCoreVersion": "9",
+   "minimumCoreVersion": "9.269",
    "compatibleCoreVersion":"10",
    "compatibility": {
        "minimum": "10",
