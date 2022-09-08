@@ -8,11 +8,21 @@
    "url": "https://github.com/magoris19/T20-CDM",
    "manifest": "https://github.com/magoris19/T20-CDM/releases/download/v1.0.4/module.json",
    "download": "https://github.com/magoris19/T20-CDM/releases/download/v1.0.4/T20-CDM-main.zip",
-   "minimumCoreVersion": "0.8.9",
+   "minimumCoreVersion": "10",
    "compatibleCoreVersion":"10",
    "compatibility": {
        "minimum": "10",
        "verified": "10"
+    },
+   "system": ["tormenta20"],
+   "relationships": {
+   "systems": [{
+      "id": "tormenta20",
+      "type": "system",
+      "compatibility": {
+        "verified": "1.3.100"
+      }
+    }]
     },
    "packs": [
     {
