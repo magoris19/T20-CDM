@@ -5,6 +5,9 @@
    "description": "Módulo para unificar materiais vindo de Dragão Brasil, livro básico de Tormenta20 e Jornada Heróica - Coração de Rubi. Facilitando a utilização em nossos próprios mundos/universos, além de acelerar o processo de atualização, criação de efeitos e conserto de erros.",   
    "author": "Magoris & CptSRedfield",
    "version": "1.0.4",
+   "url": "https://github.com/magoris19/T20-CDM",
+   "manifest": "https://raw.githubusercontent.com/magoris19/T20-CDM/main/module.json",
+   "download": "https://github.com/magoris19/T20-CDM/archive/refs/heads/main.zip",
    "minimumCoreVersion": "0.8.9",
    "compatibleCoreVersion":"10",
    "compatibility": {
@@ -145,8 +148,5 @@
       "entity": "RollTable",
       "module": "T20-CDM"
     }
-  ],
-"url": "https://github.com/magoris19/T20-CDM",
-"manifest": "https://raw.githubusercontent.com/magoris19/T20-CDM/main/module.json",
-"download": "https://github.com/magoris19/T20-CDM/archive/refs/heads/main.zip"
+  ]
 }
