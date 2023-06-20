@@ -4,16 +4,17 @@
    "title": "T20-CDM",   
    "description": "Módulo para unificar materiais vindo de Dragão Brasil, livro básico de Tormenta20 e Jornada Heróica - Coração de Rubi. Facilitando a utilização em nossos próprios mundos/universos, além de acelerar o processo de atualização, criação de efeitos e conserto de erros.",   
    "author": "Magoris & CptSRedfield",
-   "version": "1.0.4",
+   "version": "1.0.6",
    "url": "https://github.com/magoris19/T20-CDM",
    "manifest": "https://github.com/magoris19/T20-CDM/releases/download/teste/module.json",
    "download": "https://github.com/magoris19/T20-CDM/releases/download/teste/T20-CDM-main.zip",
-   "minimumCoreVersion": "9.269",
-   "compatibleCoreVersion":"10",
+   "minimumCoreVersion": "11",
+   "compatibleCoreVersion": "11",
    "compatibility": {
-       "minimum": "10",
-       "verified": "10"
-    },
+     "minimum": "11",
+     "verified": "11",
+     "maximum": "11"
+   },
    "system": ["tormenta20"],
    "relationships": {
    "systems": [{
