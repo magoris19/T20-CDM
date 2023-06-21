@@ -5,8 +5,8 @@
    "author": "Magoris & CptSRedfield",
    "version": "1.0.7",
    "url": "https://github.com/magoris19/T20-CDM",
-   "manifest": "",
-   "download": "",
+   "manifest": "https://raw.githubusercontent.com/magoris19/T20-CDM/main/module.json",
+   "download": "https://github.com/magoris19/T20-CDM/archive/refs/heads/main.zip",
    
    "compatibility": {
      "minimum": "11",
