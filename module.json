@@ -1,66 +1,54 @@
 {   
    "id": "T20-CDM",
-   "name": "T20-CDM",   
    "title": "T20-CDM",   
    "description": "Módulo para unificar materiais vindo de Dragão Brasil, livro básico de Tormenta20 e Jornada Heróica - Coração de Rubi. Facilitando a utilização em nossos próprios mundos/universos, além de acelerar o processo de atualização, criação de efeitos e conserto de erros.",   
    "author": "Magoris & CptSRedfield",
-   "version": "1.0.6",
+   "version": "1.0.7",
    "url": "https://github.com/magoris19/T20-CDM",
-   "manifest": "https://raw.githubusercontent.com/magoris19/T20-CDM/main/module.json",
-   "download": "https://github.com/magoris19/T20-CDM/archive/refs/heads/main.zip",
-   "minimumCoreVersion": "11",
-   "compatibleCoreVersion": "11",
+   "manifest": "",
+   "download": "",
+   
    "compatibility": {
      "minimum": "11",
-     "verified": "11",
-     "maximum": "11"
+     "verified": "11"
    },
-   "system": ["tormenta20"],
-   "relationships": {
-   "systems": [{
-      "id": "tormenta20",
-      "type": "system",
-      "compatibility": {
-        "verified": "1.3.100"
-      }
-    }]
-    },
+   
    "packs": [
     {
       "name": "deuses",
       "label": "Deuses T20",
       "path": "packs/deuses.db",
-      "type": "Item",
+      "type": "Item"
     },
     {
       "name": "origens",
       "label": "Origens T20",
       "path": "packs/origens.db",
-      "type": "Item",
+      "type": "Item"
     },
     {
       "name": "poderes-inventor",
       "label": "Inventor T20",
       "path": "packs/poderes-inventor.db",
-      "type": "Item",
+      "type": "Item"
     },
     {
       "name": "racas-t20",
       "label": "Raças T20",
       "path": "packs/racas-t20.db",
-      "type": "Item",
+      "type": "Item"
     },
     {
       "name": "racas-db",
       "label": "Raças Extras DB",
       "path": "packs/racas-db.db",
-      "type": "Item",
+      "type": "Item"
     },
     {
       "name": "poderes-raciais-extra",
       "label": "Poderes Raciais DB",
       "path": "packs/poderes-raciais-extra.db",
-      "type": "Item",
+      "type": "Item"
     },
     {
       "name": "distincoes",
@@ -72,7 +60,7 @@
       "name": "equipamentos-extra",
       "label": "Equipamentos Extra",
       "path": "packs/equipamentos-extra.db",
-      "type": "Item",
+      "type": "Item"
     },
     {
       "name": "poderes-extra",
@@ -90,19 +78,19 @@
       "name": "dragao-brasil",
       "label": "Dragão Brasil",
       "path": "packs/dragao-brasil.db",
-      "type": "Actor",
+      "type": "Actor"
     },
     {
       "name": "guia-de-npcs",
       "label": "Guia de NPCs",
       "path": "packs/guia-de-npcs.db",
-      "type": "Actor",
+      "type": "Actor"
     },
     {
       "name": "jheroica_cdrubi",
       "label": "JH - Coração de Rubi",
       "path": "packs/jheroica_cdrubi.db",
-      "type": "Actor",
+      "type": "Actor"
     },
     {
       "name": "doencas",
@@ -114,31 +102,31 @@
       "name": "venenos",
       "label": "Venenos",
       "path": "packs/venenos.db",
-      "type": "Item",
+      "type": "Item"
     },
     {
       "name": "tabela-doencas",
       "label": "Tabela Doenças",
       "path": "packs/tabela-doencas.db",
-      "type": "RollTable",
+      "type": "RollTable"
     },
     {
       "name": "tabela-venenos",
       "label": "Tabela Venenos",
       "path": "packs/tabela-venenos.db",
-      "type": "RollTable",
+      "type": "RollTable"
     },
     {
       "name": "tabela-equipamentos",
       "label": "Tabela Equipamentos",
       "path": "packs/tabela-equipamentos.db",
-      "type": "RollTable",
+      "type": "RollTable"
     },
     {
       "name": "comidas-exoticas",
       "label": "Tabela Comidas Exóticas",
       "path": "packs/comidas-exoticas.db",
-      "type": "RollTable",
+      "type": "RollTable"
     }
   ]
 }
